@@ -1,0 +1,9 @@
+strict graph {
+    splines="line";
+    node [margin=0 shape=point style=filled];
+
+    0 [label="n0"]
+    1 [label="n1"]
+
+    0 -- 1
+}

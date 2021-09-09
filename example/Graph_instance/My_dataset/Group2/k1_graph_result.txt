@@ -1,0 +1,18 @@
+filename: ./Graph_instance/My_dataset/Group2/k1_graph_result.txt
+number_of_vertex: 1
+number_of_vertex: 0
+Vertex:
+n0 
+Minimal_Angle:
+180
+Minimal_Distance_p2e:
+1
+Minimal_Distance_p2p:
+1e+06
+Value_of_evaluation:
+1
+Time:
+0.000773
+Pos:
+1 0.5 
+Edge

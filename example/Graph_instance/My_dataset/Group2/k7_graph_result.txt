@@ -1,0 +1,39 @@
+filename: ./Graph_instance/My_dataset/Group2/k7_graph_result.txt
+number_of_vertex: 7
+number_of_vertex: 21
+Vertex:
+n0 n1 n2 n3 n4 n5 n6 
+Minimal_Angle:
+25.6082
+Minimal_Distance_p2e:
+0.192454
+Minimal_Distance_p2p:
+0.444802
+Value_of_evaluation:
+0.918115
+Time:
+0.056231
+Pos:
+0.987956 0.499999 0.793775 0.900701 0.360199 1 0.0120442 0.72265 0.0120438 0.277351 0.360198 0 0.793775 0.0992983 
+Edge
+n0 n1
+n0 n2
+n0 n3
+n0 n4
+n0 n5
+n0 n6
+n1 n2
+n1 n3
+n1 n4
+n1 n5
+n1 n6
+n2 n3
+n2 n4
+n2 n5
+n2 n6
+n3 n4
+n3 n5
+n3 n6
+n4 n5
+n4 n6
+n5 n6

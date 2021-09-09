@@ -1,0 +1,21 @@
+filename: ./Graph_instance/My_dataset/Group2/k3_graph_result.txt
+number_of_vertex: 3
+number_of_vertex: 3
+Vertex:
+n0 n1 n2 
+Minimal_Angle:
+60
+Minimal_Distance_p2e:
+0.866025
+Minimal_Distance_p2p:
+1
+Value_of_evaluation:
+1
+Time:
+0.004752
+Pos:
+0.933013 0.5 0.0669873 1 0.0669873 1.11022e-16 
+Edge
+n0 n1
+n0 n2
+n1 n2

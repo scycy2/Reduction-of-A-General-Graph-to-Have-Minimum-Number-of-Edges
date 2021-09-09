@@ -1,0 +1,13 @@
+filename: ./Graph_instance/My_dataset/Group2/k4_graph_result.txt
+number_of_super_vertex: 14
+number_of_edge: 7
+Vertex:
+L N H F B D J K_G_A K_G_M G_A_C G_M_C_I M_O_I C_I_E O_I_E
+Edge
+L K_G_M
+F K_G_A
+B G_A_C
+N M_O_I
+D C_I_E
+J O_I_E
+H G_M_C_I

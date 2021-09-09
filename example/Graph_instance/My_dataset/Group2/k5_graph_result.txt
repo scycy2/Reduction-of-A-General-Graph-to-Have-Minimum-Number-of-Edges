@@ -1,0 +1,28 @@
+filename: ./Graph_instance/My_dataset/Group2/k5_graph_result.txt
+number_of_vertex: 5
+number_of_vertex: 10
+Vertex:
+n0 n1 n2 n3 n4 
+Minimal_Angle:
+35.3192
+Minimal_Distance_p2e:
+0.354271
+Minimal_Distance_p2p:
+0.612787
+Value_of_evaluation:
+0.941236
+Time:
+0.017512
+Pos:
+0.971483 0.5 0.617212 1 0.0285171 0.808389 0.0285171 0.191611 0.617212 -1.11022e-16 
+Edge
+n0 n1
+n0 n2
+n0 n3
+n0 n4
+n1 n2
+n1 n3
+n1 n4
+n2 n3
+n2 n4
+n3 n4

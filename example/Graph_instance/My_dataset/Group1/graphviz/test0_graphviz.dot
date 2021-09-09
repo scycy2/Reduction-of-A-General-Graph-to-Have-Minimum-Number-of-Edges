@@ -1,0 +1,58 @@
+strict graph {
+    splines="line";
+    node [margin=0 shape=point style=filled];
+
+    0 [label="n0"]
+    1 [label="n1"]
+    2 [label="n2"]
+    3 [label="n3"]
+    4 [label="n4"]
+    5 [label="n5"]
+    6 [label="n6"]
+    7 [label="n7"]
+    8 [label="n8"]
+    9 [label="n9"]
+    10 [label="n10"]
+    11 [label="n11"]
+    12 [label="n12"]
+    13 [label="n13"]
+    14 [label="n14"]
+    15 [label="n15"]
+    16 [label="n16"]
+    17 [label="n17"]
+    18 [label="n18"]
+    19 [label="n19"]
+
+    0 -- 9
+    0 -- 13
+    0 -- 15
+    0 -- 17
+    1 -- 8
+    1 -- 17
+    2 -- 11
+    2 -- 7
+    3 -- 6
+    3 -- 9
+    3 -- 18
+    4 -- 7
+    4 -- 5
+    5 -- 16
+    5 -- 19
+    6 -- 14
+    6 -- 16
+    6 -- 18
+    7 -- 16
+    7 -- 18
+    8 -- 9
+    8 -- 11
+    8 -- 12
+    8 -- 17
+    8 -- 19
+    9 -- 12
+    10 -- 12
+    10 -- 18
+    11 -- 14
+    13 -- 14
+    15 -- 16
+    16 -- 18
+}

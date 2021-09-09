@@ -1,0 +1,38 @@
+filename: /Users/shenhuan/eclipse-cpp/Summer_Research_DSP/dataset/graphs-DSP/1/test7.txt
+number_of_vertex: 20
+number_of_edge: 32
+Vertex:
+n0 n1 n2 n3 n4 n5 n6 n7 n8 n9 n10 n11 n12 n13 n14 n15 n16 n17 n18 n19 
+Edge
+n0 n13 
+n0 n7 
+n0 n18 
+n0 n16 
+n1 n7 
+n1 n16 
+n1 n0 
+n1 n17 
+n2 n16 
+n2 n15 
+n2 n13 
+n3 n16 
+n4 n14 
+n4 n2 
+n4 n17 
+n5 n17 
+n5 n15 
+n5 n6 
+n8 n7 
+n8 n19 
+n9 n6 
+n9 n16 
+n9 n10 
+n9 n19 
+n9 n18 
+n10 n6 
+n11 n13 
+n11 n19 
+n12 n16 
+n19 n14 
+n19 n6 
+n19 n16 

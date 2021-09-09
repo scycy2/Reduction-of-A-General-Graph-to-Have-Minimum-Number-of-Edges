@@ -1,0 +1,33 @@
+filename: ./Graph_instance/My_dataset/Group2/k6_graph_result.txt
+number_of_vertex: 6
+number_of_vertex: 15
+Vertex:
+n0 n1 n2 n3 n4 n5 
+Minimal_Angle:
+30
+Minimal_Distance_p2e:
+0.25
+Minimal_Distance_p2p:
+0.5
+Value_of_evaluation:
+0.928571
+Time:
+0.029598
+Pos:
+1 0.5 0.75 0.933013 0.25 0.933013 1.11022e-16 0.5 0.25 0.0669873 0.75 0.0669873 
+Edge
+n0 n1
+n0 n2
+n0 n3
+n0 n4
+n0 n5
+n1 n2
+n1 n3
+n1 n4
+n1 n5
+n2 n3
+n2 n4
+n2 n5
+n3 n4
+n3 n5
+n4 n5
