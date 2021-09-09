@@ -3,5 +3,5 @@
 
 Below is some details of this project
 
-[](Edge-Compressed Graphs.pdf)
+[Introduction and other details](Edge-Compressed Graphs.pdf)
 
